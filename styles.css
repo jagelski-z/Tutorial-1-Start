@@ -71,4 +71,13 @@ a{
     justify-content: space-around;
 }
 
+.clickable{
+    border: 1x solid darkgray;
+}
+
+.clickable-hover{
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
 /* Content that will be added */
